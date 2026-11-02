@@ -1,1 +1,2 @@
-*.borrador.md
+.borrador.md
+.venv/
